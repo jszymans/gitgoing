@@ -11,6 +11,7 @@ Get going with contributing to open-source software
 ## Setting up your environment
 
 1. Make a github birch-dingus-fart account
+	(fart dingus)
 2. Install git on your computer
   * Mac
     1. Create a folder `~/code` by typing into the terminal `mkdir ~/code`
